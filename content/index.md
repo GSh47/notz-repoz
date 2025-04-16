@@ -1,12 +1,5 @@
 ---
-title: Welcome to Quartz
----
-
----
-title: HOMEEE
-draft: false
-tags:
-  - example-tag
+title: Home
 ---
 
 #  Physics - Mathematics 6 
