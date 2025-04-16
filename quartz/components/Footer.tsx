@@ -12,9 +12,9 @@ export default ((opts?: Options) => {
     const year = new Date().getFullYear()
     const links = opts?.links ?? []
     return (
-      <footer class={`${displayClass ?? ""}`}>
-        
-      </footer>
+       <footer className="w-full text-center py-4 text-sm text-gray-500">
+      All the best !!
+    </footer>
     )
   }
 
