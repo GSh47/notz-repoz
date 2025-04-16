@@ -1,7 +1,12 @@
+```
 ---
-dg-publish: true
-dg-home: true
+title: HOMEEE
+draft: false
+tags:
+  - example-tag
 ---
+```
+
 
 #  Physics - Mathematics 6 
 

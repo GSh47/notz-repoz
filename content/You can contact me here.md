@@ -1,6 +1,12 @@
+```
 ---
-dg-publish: true
+title: HOMEEE
+draft: false
+tags:
+  - example-tag
 ---
+```
+
 If you're willing to contribute with notes or helping me review and maintain the site, that would be amazing too! 
 
 Questions and comments, feedback, ideas and pretty much anything is welcome ! Here's details :)
