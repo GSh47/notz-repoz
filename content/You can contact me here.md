@@ -1,5 +1,7 @@
 ---
 title: Contact
+draft: "false"
+publish: "true"
 ---
 
 

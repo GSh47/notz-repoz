@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/PH62/Particle Physics.md",
+                "file": "content/You can contact me here.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Particle Physics"
+              "title": "You can contact me here"
             }
           }
         ]
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/PH62/Particle Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Particle Physics"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/PH62/Particle Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Particle Physics"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,13 +140,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/PH62/Particle Physics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Particle Physics"
+              "title": "Outline"
             }
           }
         ]
@@ -170,7 +167,9 @@
   },
   "active": "770ee132d78a69fc",
   "lastOpenFiles": [
+    "content/PH62/Nuclear reactions.md",
     "content/You can contact me here.md",
+    "content/PH62/Particle Physics.md",
     "docs/showcase.md",
     "docs/index.md",
     "docs/configuration.md",
@@ -178,7 +177,6 @@
     "docs/layout.md",
     "content/index.md",
     "content/Home Page.md",
-    "content/PH62/Nuclear reactions.md",
     "content/PH62/Nuclear Physics.md",
     "Frontmatter.md",
     "docs/authoring content.md",
