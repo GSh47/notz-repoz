@@ -40,9 +40,11 @@ much slower $10^{-16}$ seconds  is isotropically distributed.. the wave function
 
 # Q value of nuclear reactions
 
-This is a part **Nuclear Energetics**. Depending on Q value of a reaction, the reaction is either *Endoergic* or *Exoergic*
+This is a part **Nuclear Energetics**. Depending on Q value of a reaction, the reaction is either *Endoergic* or *Exoergic* 
 
-![[Pasted image 20250130112856.png]]
+![[bitmap.png]]
+
+
 
 We can write by conservation of momentum, 
 $$
@@ -86,6 +88,3 @@ The minimum Kinetic energy required by the incident particle to bring about the 
 $$
 E_{Th}=-Q\left[\frac{M_{a+}M_{A}}{M_{A}} \right]
 $$
-Calculate the Q value of nuclear reaction 
-
-Calculate the energy released in the following rare spontaneous fission reaction : Calculate amount of kinetic energy produced by fission of 1kg of U235 given avg fission reaction of U235 produces 200MeV 
