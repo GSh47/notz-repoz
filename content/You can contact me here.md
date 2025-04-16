@@ -1,11 +1,8 @@
-```
 ---
-title: HOMEEE
-draft: false
-tags:
-  - example-tag
+title: Contact
+draft: "false"
 ---
-```
+
 
 If you're willing to contribute with notes or helping me review and maintain the site, that would be amazing too! 
 

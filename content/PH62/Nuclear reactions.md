@@ -1,6 +1,9 @@
 ---
-dg-publish: true
+title: Nuclear Reactions
+draft: "false"
 ---
+
+
 Thomas Kuhn scintific revolution 
 
 Wilhelm Herschel color temps 
