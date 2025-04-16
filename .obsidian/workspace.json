@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/You can contact me here.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "You can contact me here"
+              "title": "index"
             }
           }
         ]
@@ -167,8 +167,8 @@
   },
   "active": "770ee132d78a69fc",
   "lastOpenFiles": [
-    "content/PH62/Nuclear reactions.md",
     "content/You can contact me here.md",
+    "content/PH62/Nuclear reactions.md",
     "content/PH62/Particle Physics.md",
     "docs/showcase.md",
     "docs/index.md",

@@ -22,10 +22,10 @@ Feedback and comments would be delightful in helping me improve the notes for al
 
 Site owned and maintained by : 
 $$
-\begin{align}
+\begin{align*}
 \text{Govinda S} \\
 \text{St. Joseph's College,} \\
 \text{Bengaluru.}
-\end{align}
+\end{align*}
 $$
 ***
