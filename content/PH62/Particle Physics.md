@@ -1,3 +1,6 @@
+---
+title: Particle Physics
+---
 
  
 Classification of elementary particles - Types of interaction- standard model-  hadrons–leptons – baryons – mesons – strangeness – hyperons – antiparticles –antimatter – basic ideas about quarks – types of quarks – quark dynamics– symmetry and conservation laws -Feynman diagrams– Gell-Mann Nishijima relations, strange particle, CPT Theorem.                                                        

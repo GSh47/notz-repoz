@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/You can contact me here.md",
+                "file": "content/PH62/Particle Physics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "You can contact me here"
+              "title": "Particle Physics"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/You can contact me here.md",
+                "file": "content/PH62/Particle Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for You can contact me here"
+              "title": "Backlinks for Particle Physics"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/You can contact me here.md",
+                "file": "content/PH62/Particle Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from You can contact me here"
+              "title": "Outgoing links from Particle Physics"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/You can contact me here.md",
+                "file": "content/PH62/Particle Physics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of You can contact me here"
+              "title": "Outline of Particle Physics"
             }
           }
         ]
@@ -170,17 +170,20 @@
   },
   "active": "770ee132d78a69fc",
   "lastOpenFiles": [
-    "content/PH62/Nuclear reactions.md",
-    "content/PH62/Nuclear Physics.md",
+    "content/You can contact me here.md",
+    "docs/showcase.md",
+    "docs/index.md",
+    "docs/configuration.md",
+    "docs/layout-components.md",
+    "docs/layout.md",
     "content/index.md",
     "content/Home Page.md",
-    "content/You can contact me here.md",
-    "docs/index.md",
+    "content/PH62/Nuclear reactions.md",
+    "content/PH62/Nuclear Physics.md",
     "Frontmatter.md",
     "docs/authoring content.md",
     "content/CreateCircle.mp4",
     "docs/hosting.md",
-    "docs/layout.md",
     "README.md"
   ]
 }

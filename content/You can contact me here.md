@@ -1,6 +1,5 @@
 ---
 title: Contact
-draft: "false"
 ---
 
 
