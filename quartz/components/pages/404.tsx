@@ -6,11 +6,14 @@ const NotFound: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
   const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`)
   const baseDir = url.pathname
 
-  return (
-  <article className="popover-hint">
-    <h1>Oops, there's nothing here.. I must have forgotten to write it </h1>
-  </article>
-)
+   return (
+    <article class="popover-hint">
+      <h1>404</h1>
+      <p>{i18n(cfg.locale).pages.error.notFound}</p>
+      <a href={baseDir}>{i18n(cfg.locale).pages.error.home}</a>
+    </article>
+  )
 }
+
 
 export default (() => NotFound) satisfies QuartzComponentConstructor
