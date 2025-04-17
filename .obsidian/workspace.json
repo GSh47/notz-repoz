@@ -11,12 +11,14 @@
             "id": "770ee132d78a69fc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "content/images/bitmap.png"
+                "file": "content/PH62/Scintillation detector.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "bitmap"
+              "icon": "lucide-file",
+              "title": "Scintillation detector"
             }
           }
         ]
@@ -163,13 +165,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a96deadb956cd0d6",
+  "active": "770ee132d78a69fc",
   "lastOpenFiles": [
+    "content/index.md",
+    "content/You can contact me here.md",
+    "content/images/bitmap.png",
     "rect7898.png",
     "README.md",
     "Pasted image 20250416175527.png",
     "Frontmatter.md",
-    "content/images/bitmap.png",
     "content/PH62/Nuclear reactions.md",
     "content/CreateCircle.mp4",
     "content/MT62/Stokes theorem.md",
@@ -185,7 +189,6 @@
     "content/images/Pasted image 20250312072821.png",
     "content/images/Pasted image 20250306082704.png",
     "content/images",
-    "content/index.md",
     "content/PH62/SuperConductivite PH6223.md",
     "content/PH62/Scintillation detector.md",
     "content/PH62/Radiation Physics.md",
@@ -204,7 +207,6 @@
     "content/MT61/homogenous equation.md",
     "content/MT61/Partial Differential Equations.md",
     "content/MT61/Linear Algebra.md",
-    "content/You can contact me here.md",
     "content/MT61",
     "content",
     "public/index.html",

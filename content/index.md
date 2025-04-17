@@ -13,6 +13,7 @@ This is an unofficial notes repository website containing my notes from the seme
 
 >[!danger] **DISCLAIMER** 
 >These notes aren't exactly perfect and are likely to contain typos, code errors,  factual errors or sections that might be entirely missing altogether that I might have not even noticed in class. 
+>
 >Any sort of help in sorting these issues is very much appreciated. 
 
 
