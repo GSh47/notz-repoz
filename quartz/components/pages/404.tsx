@@ -8,7 +8,7 @@ const NotFound: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
 
    return (
   <article className="popover-hint">
-    <h1>404</h1>
+    <h1>Oops!! :(</h1>
     <p>I haven't written this part yet! or just forgotten.. </p>
   </article>
 )
