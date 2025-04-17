@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Namaskara !
 ---
 
 #  Physics - Mathematics 6 
