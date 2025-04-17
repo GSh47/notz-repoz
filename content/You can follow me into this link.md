@@ -1,7 +1,7 @@
 ---
 title: Nexus
 ---
-![[image77.png]]
+![[image77.png|400]]
 
 
 

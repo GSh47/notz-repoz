@@ -4,7 +4,7 @@ dg-publish: true
 
 
 
-![[nuclearphys.png]]
+![[public/images/nuclearphys.png]]
 Arthur Beiser 
 Midsem portions : 
 - Particle accelerators & Detectors

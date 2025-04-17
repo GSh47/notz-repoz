@@ -31,4 +31,4 @@ V&=\frac{Q}{C}\\&= \left( \eta   \frac{E_{i}}{E_{\nu}} \right)(\alpha TN_{1})(DN
 \end{aligned}
 $$
   
- ![[Scint.png]]
+ ![[public/images/Scint.png]]

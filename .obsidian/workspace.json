@@ -4,22 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "fdcd1b8ff46fea5f",
+        "id": "dfacd5fea0865e30",
         "type": "tabs",
         "children": [
           {
-            "id": "770ee132d78a69fc",
+            "id": "8c8124680d6646a0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "content/images/Pasted image 20250417134817.png"
+                "file": "content/MT61/Lin. Al. and PDEs.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250417134817"
+              "icon": "lucide-file",
+              "title": "Lin. Al. and PDEs"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -163,22 +166,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a96deadb956cd0d6",
+  "active": "8c8124680d6646a0",
   "lastOpenFiles": [
-    "content/images/Screenshot from 2025-04-17 13-52-21.png",
-    "WhatsApp Image 2025-04-17 at 12.12.43.jpeg",
+    "content/Media/WhatsApp Video 2025-04-17 at 19.37.25(1).mp4",
+    "Details of WP 17410-23.md",
     "content/MT61/Lin. Al. and PDEs.md",
-    "content/MT61/Linear Algebra.md",
-    "content/images/Pasted image 20250417134817.png",
-    "content/images/maggie.png",
-    "content/images/Pasted image 20250417132826.png",
-    "content/images/nukes.jpeg",
-    "content/images/condensed.jpeg",
-    "content/images/integral.jpeg",
-    "content/images/Linal.jpeg",
-    "content/images/WhatsApp Image 2025-04-17 at 12.51.08.jpeg",
     "content/You can follow me into this link.md",
     "content/index.md",
+    "content/Media/Pasted image 20250417134817.png",
+    "content/Media/Screenshot from 2025-04-17 13-52-21.png",
+    "WhatsApp Image 2025-04-17 at 12.12.43.jpeg",
+    "content/MT61/Linear Algebra.md",
+    "content/Media/maggie.png",
+    "content/Media/Pasted image 20250417132826.png",
+    "content/Media/nukes.jpeg",
+    "content/Media/condensed.jpeg",
+    "content/Media/integral.jpeg",
+    "content/Media/Linal.jpeg",
+    "content/images/WhatsApp Image 2025-04-17 at 12.51.08.jpeg",
     "content/PH62/Scintillation detector.md",
     "content/You can contact me here.md",
     "README.md",
@@ -190,7 +195,7 @@
     "content/MT62/Multiple integrals.md",
     "content/MT62/Bounds of a function.md",
     "content/MT62",
-    "content/images",
+    "content/Media",
     "content/PH62/SuperConductivite PH6223.md",
     "content/PH62/Radiation Physics.md",
     "content/PH62/Particle Physics.md",
@@ -205,7 +210,6 @@
     "content/PH61/Bragg's Law.md",
     "content/PH61",
     "content/WhatsApp Audio 2025-04-13 at 00.27.57.ogg",
-    "content/MT61/homogenous equation.md",
     "content/MT61",
     "content",
     "public/index.html",
