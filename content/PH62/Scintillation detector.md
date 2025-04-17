@@ -10,7 +10,12 @@ $$
 - If $N_{2}$ is the number of incident photons, then $\alpha$ is called the fraction of fraction of total number of photons falling on the photocathode and $T$ is photocathode transparency, we have.
 $$
 N_{2}=\alpha TN_{1}
-$$Then these photons are converted into photoelectrons with efficiency of $\eta_{e}$ The number of photoelectrons produced by photocathode is $$N=\eta_{e}N_{2}$$
+$$
+
+- These photons are then converted into photoelectrons with efficiency of $\eta_{e}$ The number of photoelectrons produced by photocathode is 
+$$ 
+N=\eta_{e}N_{2}
+$$
 - If $D$ is the fraction of photoelectrons reaching the first dynode, and $m$ is the multiplication factor of each dynode, then the number of eletrons collected at anode is 
 $$
 N_{e}=DNm^n

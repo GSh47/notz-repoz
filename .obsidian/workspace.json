@@ -15,7 +15,7 @@
               "state": {
                 "file": "content/PH62/Scintillation detector.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Scintillation detector"
