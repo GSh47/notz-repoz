@@ -11,14 +11,10 @@
             "id": "8c8124680d6646a0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/You can contact me here.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "You can contact me here"
+              "title": "New tab"
             }
           }
         ],
@@ -168,6 +164,13 @@
   },
   "active": "8c8124680d6646a0",
   "lastOpenFiles": [
+    "quartz/static/icon.png",
+    "quartz/static/og-icon.png",
+    "quartz/static/WhatsApp Image 2025-04-17 at 22.37.10.jpeg",
+    "quartz/static/og-image.png",
+    "quartz/static/icon.png.jpeg",
+    "quartz/static/WhatsApp Image 2025-04-17 at 22.35.20.jpeg",
+    "content/You can contact me here.md",
     "content/index.md",
     "content/MT61/Lin. Al. and PDEs.md",
     "content/Media/WhatsApp Video 2025-04-17 at 19.37.25(1).mp4",
@@ -179,13 +182,7 @@
     "content/MT61/Linear Algebra.md",
     "content/Media/maggie.png",
     "content/Media/Pasted image 20250417132826.png",
-    "content/Media/nukes.jpeg",
-    "content/Media/condensed.jpeg",
-    "content/Media/integral.jpeg",
-    "content/Media/Linal.jpeg",
-    "content/images/WhatsApp Image 2025-04-17 at 12.51.08.jpeg",
     "content/PH62/Scintillation detector.md",
-    "content/You can contact me here.md",
     "README.md",
     "Frontmatter.md",
     "content/PH62/Nuclear reactions.md",

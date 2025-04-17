@@ -13,6 +13,5 @@ Questions and comments, feedback, ideas and pretty much anything is welcome ! He
 
 - [Email : gsh.47.ug@protonmail.com](gsh.47.ug@protonmail.com) 
 - Phone : $+91\, 762\, 4900\,540$ : whatsapp (ugh), telegram (better) and signal chat (much better !)
-- [Wire chat](https://account.wire.com/user-profile/?id=88541b18-ae8f-4e2e-8c37-823dcb056dc5)
 
 
