@@ -1,28 +1,70 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>Quartz 4</title>
-      <link>https://quartz.jzhao.xyz</link>
-      <description>Last 10 notes on Quartz 4</description>
+      <title>Physics Mathmatics 24-25</title>
+      <link>https://taralaya.karnataka.gov.in</link>
+      <description>Last 10 notes on Physics Mathmatics 24-25</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Home Page</title>
-    <link>https://quartz.jzhao.xyz/Home-Page</link>
-    <guid>https://quartz.jzhao.xyz/Home-Page</guid>
-    <description>Physics - Mathematics 6 This is an unofficial notes repository website containing my notes from the semester DISCLAIMER These notes aren’t exactly perfect and are likely to contain typos, code errors, factual errors or sections that might be entirely missing altogether that I might have not even not...</description>
-    <pubDate>Wed, 16 Apr 2025 08:54:25 GMT</pubDate>
+    <title>Nuclear Reactions</title>
+    <link>https://taralaya.karnataka.gov.in/PH62/Nuclear-reactions</link>
+    <guid>https://taralaya.karnataka.gov.in/PH62/Nuclear-reactions</guid>
+    <description>Thomas Kuhn scintific revolution Wilhelm Herschel color temps Bunsen and Kirchoff discovery of colour Dynamics of nuclear reactions The basic scheme for a nuclear reaction is a_{\text{projectile}}+A_{\text{target}}\to B_{\text{recoil}}+b_{ejectile} The expected condition is a\neq b and A\neq B.</description>
+    <pubDate>Wed, 16 Apr 2025 12:33:48 GMT</pubDate>
   </item><item>
-    <title>You can contact me here</title>
-    <link>https://quartz.jzhao.xyz/You-can-contact-me-here</link>
-    <guid>https://quartz.jzhao.xyz/You-can-contact-me-here</guid>
-    <description>If you’re willing to contribute with notes or helping me review and maintain the site, that would be amazing too! Questions and comments, feedback, ideas and pretty much anything is welcome ! Here’s details :) Email : gsh.47.ug@protonmail.com Phone : +91 762 4900 540 (whatsapp, telegram and signal c...</description>
-    <pubDate>Wed, 16 Apr 2025 08:54:25 GMT</pubDate>
+    <title>homogenous equation</title>
+    <link>https://taralaya.karnataka.gov.in/MT61/homogenous-equation</link>
+    <guid>https://taralaya.karnataka.gov.in/MT61/homogenous-equation</guid>
+    <description>Solving First-Order Homogeneous ODEs For ODEs of the form dydx=f(yx)\frac{dy}{dx} = f\left(\frac{y}{x}\right)dxdy​=f(xy​), use the substitution v=yxv = \frac{y}{x}v=xy​, where y=vxy = vxy=vx and dydx=v+xdvdx\frac{dy}{dx} = v + x\frac{dv}{dx}dxdy​=v+xdxdv​.</description>
+    <pubDate>Wed, 16 Apr 2025 11:17:27 GMT</pubDate>
   </item><item>
-    <title>Welcome to Quartz</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
-    <description>This is a blank Quartz installation. See the documentation for how to get started.</description>
-    <pubDate>Wed, 16 Apr 2025 08:54:25 GMT</pubDate>
+    <title>Bounds of a function</title>
+    <link>https://taralaya.karnataka.gov.in/MT62/Bounds-of-a-function</link>
+    <guid>https://taralaya.karnataka.gov.in/MT62/Bounds-of-a-function</guid>
+    <description>refer Bounds of a singleton set and Maxima vs Supremum Transclude of Riemann-Integration-2024-12-10-12.07.19.excalidraw Mapping of a function, A function f is said to be bounded if there exists m,M\in \mathbb{R} such that m \leq f(x) \leq M \forall x in the domain.</description>
+    <pubDate>Wed, 16 Apr 2025 11:17:27 GMT</pubDate>
+  </item><item>
+    <title>Stokes theorem</title>
+    <link>https://taralaya.karnataka.gov.in/MT62/Stokes-theorem</link>
+    <guid>https://taralaya.karnataka.gov.in/MT62/Stokes-theorem</guid>
+    <description>\oint\vec{F}\cdot d\vec{r}=\iint_{S}\nabla \times \vec{F} \cdot\hat{n} \quad dS If S is a surface bounded by a simple closed curve C and \vec{F} is a vector function whoms components have continuous first order derivatives.</description>
+    <pubDate>Wed, 16 Apr 2025 11:17:27 GMT</pubDate>
+  </item><item>
+    <title>Bragg&#039;s Law</title>
+    <link>https://taralaya.karnataka.gov.in/PH61/Bragg's-Law</link>
+    <guid>https://taralaya.karnataka.gov.in/PH61/Bragg's-Law</guid>
+    <description>Let us consider a crystal made up of equidistant parallel planes of atoms with the inter- planer spacing dhkl.</description>
+    <pubDate>Wed, 16 Apr 2025 11:17:27 GMT</pubDate>
+  </item><item>
+    <title>K space</title>
+    <link>https://taralaya.karnataka.gov.in/PH61/K-space</link>
+    <guid>https://taralaya.karnataka.gov.in/PH61/K-space</guid>
+    <description>A space where we take wavelength to be ‘unit’.</description>
+    <pubDate>Wed, 16 Apr 2025 11:17:27 GMT</pubDate>
+  </item><item>
+    <title>Occupation number of Boson</title>
+    <link>https://taralaya.karnataka.gov.in/PH61/Occupation-number-of-Boson</link>
+    <guid>https://taralaya.karnataka.gov.in/PH61/Occupation-number-of-Boson</guid>
+    <description>Mean contribution of a boson to the number density of a boson system Density of states - no of bosons per unit volume.</description>
+    <pubDate>Wed, 16 Apr 2025 11:17:27 GMT</pubDate>
+  </item><item>
+    <title>X- rays</title>
+    <link>https://taralaya.karnataka.gov.in/PH61/X--rays</link>
+    <guid>https://taralaya.karnataka.gov.in/PH61/X--rays</guid>
+    <description>Highly energetic eelctrons e^- falling on metal target produce xrays.</description>
+    <pubDate>Wed, 16 Apr 2025 11:17:27 GMT</pubDate>
+  </item><item>
+    <title>coolidge tube</title>
+    <link>https://taralaya.karnataka.gov.in/PH61/coolidge-tube</link>
+    <guid>https://taralaya.karnataka.gov.in/PH61/coolidge-tube</guid>
+    <description> The intensity of Xray dpends on filament of current, the quality of Xray is dependent on Voltage across the filament The photons are released as a form of Bremsstrahlung radiation when an electron passing by a nucleus bends - changing it’s velocity.</description>
+    <pubDate>Wed, 16 Apr 2025 11:17:27 GMT</pubDate>
+  </item><item>
+    <title>Scintillation detector</title>
+    <link>https://taralaya.karnataka.gov.in/PH62/Scintillation-detector</link>
+    <guid>https://taralaya.karnataka.gov.in/PH62/Scintillation-detector</guid>
+    <description>4 marks A typical photomultiplier has multiplication factor of 10^6 electrons, i.e each electron creates million electrons There are n stages in a dynode, of multiplication factor of m.</description>
+    <pubDate>Wed, 16 Apr 2025 11:17:27 GMT</pubDate>
   </item>
     </channel>
   </rss>
