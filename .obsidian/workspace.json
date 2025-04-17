@@ -11,14 +11,12 @@
             "id": "770ee132d78a69fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "content/PH62/Nuclear reactions.md",
-                "mode": "source",
-                "source": false
+                "file": "content/images/bitmap.png"
               },
-              "icon": "lucide-file",
-              "title": "Nuclear reactions"
+              "icon": "lucide-image",
+              "title": "bitmap"
             }
           }
         ]
@@ -165,8 +163,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "770ee132d78a69fc",
+  "active": "a96deadb956cd0d6",
   "lastOpenFiles": [
+    "rect7898.png",
+    "README.md",
+    "Pasted image 20250416175527.png",
+    "Frontmatter.md",
+    "content/images/bitmap.png",
+    "content/PH62/Nuclear reactions.md",
     "content/CreateCircle.mp4",
     "content/MT62/Stokes theorem.md",
     "content/MT62/Riemann Integration.md",
@@ -180,16 +184,12 @@
     "content/images/Pasted image 20250312074200.png",
     "content/images/Pasted image 20250312072821.png",
     "content/images/Pasted image 20250306082704.png",
-    "content/images/Pasted image 20250306081331.png",
-    "content/images/Pasted image 20250306074331.png",
-    "content/images/Pasted image 20250306073631.png",
     "content/images",
     "content/index.md",
     "content/PH62/SuperConductivite PH6223.md",
     "content/PH62/Scintillation detector.md",
     "content/PH62/Radiation Physics.md",
     "content/PH62/Particle Physics.md",
-    "content/PH62/Nuclear reactions.md",
     "content/PH62/Nuclear insrumentation.md",
     "content/PH62/Nuclear Physics.md",
     "content/PH62",
@@ -209,9 +209,6 @@
     "content",
     "public/index.html",
     "public/You-can-contact-me-here.html",
-    "public/PH62/SuperConductivite-PH6223.html",
-    "docs/showcase.md",
-    "docs/index.md",
-    "docs/configuration.md"
+    "docs/showcase.md"
   ]
 }
