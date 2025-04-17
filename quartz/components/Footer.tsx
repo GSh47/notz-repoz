@@ -12,9 +12,18 @@ export default ((opts?: Options) => {
     const year = new Date().getFullYear()
     const links = opts?.links ?? []
     return (
-       <footer className="w-full text-center py-4 text-sm text-gray-500">
-      All the best !!   <a href="https://notz-repoz.vercel.app/You-can-contact-me-here">Click me if you have doubts</a>
-    </footer>
+      <footer className="w-full text-center py-4 text-sm text-gray-500">
+  All the best!!{' '}
+  <a
+    href="https://notz-repoz.vercel.app/You-can-contact-me-here"
+    className="text-blue-500 underline"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    Click me if you have doubts
+  </a>
+</footer>
+
     )
   }
 
