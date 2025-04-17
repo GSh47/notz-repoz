@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fav",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +71,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -162,8 +163,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c8124680d6646a0",
+  "active": "994dd85895873d05",
   "lastOpenFiles": [
+    "public/static/icon.png",
     "quartz/static/icon.png",
     "quartz/static/og-icon.png",
     "quartz/static/WhatsApp Image 2025-04-17 at 22.37.10.jpeg",
@@ -181,7 +183,6 @@
     "WhatsApp Image 2025-04-17 at 12.12.43.jpeg",
     "content/MT61/Linear Algebra.md",
     "content/Media/maggie.png",
-    "content/Media/Pasted image 20250417132826.png",
     "content/PH62/Scintillation detector.md",
     "README.md",
     "Frontmatter.md",
