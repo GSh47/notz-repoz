@@ -283,3 +283,4 @@ Drawbacks
 	1. excited states of even-even nuclei
 	2. Magnitude of nuclear quadrupole moments, magnetic moments of some nuclei. 
 2. Probability of radioactive transitions. 
+

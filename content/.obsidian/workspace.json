@@ -11,10 +11,14 @@
             "id": "4402ee77561ccf46",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Nukes !.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Nukes !"
             }
           }
         ]
@@ -162,5 +166,31 @@
     }
   },
   "active": "4402ee77561ccf46",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Pasted image 20250505124918.png",
+    "Pasted image 20250505122021.png",
+    "Media/Pasted image 20250505130538.png",
+    "Media/Pasted image 20250505124918.png",
+    "Media/Pasted image 20250505123641.png",
+    "Media/Pasted image 20250505122112.png",
+    "Media/Pasted image 20250505122021.png",
+    "Pasted image 20250505122112.png",
+    "Pasted image 20250505123641.png",
+    "Pasted image 20250505130538.png",
+    "Nukes !.md",
+    "PH62/Nuclear Physics.md",
+    "PH62/Particle Physics.md",
+    "MT61/Lin. Al. and PDEs.md",
+    "You can follow me into this link.md",
+    "index.md",
+    "PH62/Radiation Physics.md",
+    "PH62/Scintillation detector.md",
+    "PH62/Nuclear reactions.md",
+    "PH61/coolidge tube.md",
+    "PH61/X- rays.md",
+    "PH61/Occupation number of Boson.md",
+    "PH61/K space.md",
+    "PH61/Elements of Condensed matter physics and Devices PH 6223.md",
+    "PH61/Bragg's Law.md"
+  ]
 }

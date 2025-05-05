@@ -11,10 +11,14 @@
             "id": "8c8124680d6646a0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/MT61/Partial Differential Equations.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Partial Differential Equations"
             }
           }
         ],
@@ -71,8 +75,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,7 +166,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "994dd85895873d05",
+  "active": "8c8124680d6646a0",
   "lastOpenFiles": [
     "public/static/icon.png",
     "quartz/static/icon.png",
