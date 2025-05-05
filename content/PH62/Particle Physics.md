@@ -147,6 +147,8 @@ $$
 
 
 >[!danger] RANT
->So I may not be pursue further education into Particle Physics (don't get me wrong - it's a wonderful field) **BUT IF THEY INTRODUCE ANOTHER WET SOCK OF A GLUTEN FREE CHEESE TOAST** (made with freshly sniffed vegan tomatoes) **OF A FUIKENG PROPERTY INSTEAD OF REEVALUATING THEIR CURRENT MODEL WITH CLEAN MATH** (sustainably synthesized in a shed) **LIKE GOOD LITTLE CHILDREN**, I shall : 
+>So I may not be pursue further education into Particle Physics (don't get me wrong - it's a wonderful field) **BUT IF THEY INTRODUCE ANOTHER WET SOCK OF A GLUTEN FREE CHEESE TOAST** (made with freshly sniffed vegan tomatoes) **OF A FUIKENG PROPERTY INSTEAD OF REEVALUATING THEIR CURRENT MODEL WITH CLEAN MATH** (sustainably synthesized in a shed) **LIKE GOOD LITTLE CHILDREN**,  :
+>
+>
 >![[Pasted image 20250506001534.png]] 
 
