@@ -1,7 +1,11 @@
+
+Radiation is usually due to one of the following 
 1. $\alpha$ particles 
 2. $\beta$
 3. $\gamma$
 4. neutron
+
+![[Pasted image 20250505234444.png]]
 
 ## Radiation effects 
 - Soamtic 

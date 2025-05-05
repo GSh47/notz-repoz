@@ -129,7 +129,6 @@ Anti quarks are given anti color. If it's a BAryon, a 3 quark bound system. The 
 If it's a meson, a two quark bound system, then we have color and color assigned to it. This results in a colorless Baryon or meson. 
 Analogous to an electron carrying electric charge, quarks carry color charge.  And the strong nuclear force that the quarks feel due to other quarks are known as the color forces. 
 
-![[Particle Physics 2025-03-11 11.47.26.excalidraw]]
 
 # Charge conjugation 
 mathmatical operation : turns a particle anti by switching the charge on the quarks example: 
@@ -144,15 +143,10 @@ $$
 \hat{P}\Psi(x)=\Psi(-x)\\\hat{P}\Psi(x,y,t)=\Psi(-x,-y,-t)
 \end{aligned}
 $$
-# Time reversal
-
-**Use supernova of 1968 to estimate the mass of the neutrino assume that two neutrinos leave the supernova at hte same time and arrive on earth 10 seconds apart given KE of neutrino is $20MeV$ and $10MeV$ given the superova is at a distance of 0.17 Million Light years from earth. **
 
 
 
-$$
-\Lambda^0\to p+\pi^-
-$$
+>[!danger] RANT
+>So I may not be pursue further education into Particle Physics (don't get me wrong - it's a wonderful field) **BUT IF THEY INTRODUCE ANOTHER WET SOCK OF A GLUTEN FREE CHEESE TOAST** (made with freshly sniffed vegan tomatoes) **OF A FUIKENG PROPERTY INSTEAD OF REEVALUATING THEIR CURRENT MODEL WITH CLEAN MATH** (sustainably synthesized in a shed) **LIKE GOOD LITTLE CHILDREN**, I shall : 
+>![[Pasted image 20250506001534.png]] 
 
-
-# 
