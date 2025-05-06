@@ -9,6 +9,7 @@ title: Linear Algebra and Partial Differential Equations
 >
 >You are bound to discover severe deficiencies if you decide to study Quantum Mechanics or Abstract Mathematics further, I suggest arming yourself with a good textbook like  [Strang's](https://students.aiu.edu/submissions/profiles/resources/onlineBook/Y5B7M4_Introduction_to_Linear_Algebra-_Fourth_Edition.pdf) or [Linear Algebra Done Right by Sheldon Axler](https://linear.axler.net/LADR4e.pdf) if you want to do anything serious within this field. I have negative opinions on the college prescribed textbook, yet I shall provide screenshots of it throughout the place just for continuity and compliance.
 
+![[The HU - Yuve Yuve Yu (Studio Master High Quality).m4a]]
 # Linear Algebra
 ---
 I highly recommend looking up my [SWIM notes](https://swim-23-lecture-series-gsh47.vercel.app/) for better reference : 
@@ -17,6 +18,7 @@ I highly recommend looking up my [SWIM notes](https://swim-23-lecture-series-gsh
 - [LEC 8 Basis dimension and independence](https://swim-23-lecture-series-gsh47.vercel.app/swim/lec8/lecture-viii/)
 - [LEC 10 Transforms](https://swim-23-lecture-series-gsh47.vercel.app/swim/lec10/lecture-x/)
 - [LEC 13 Rank, Nullsapce and Matrices](https://swim-23-lecture-series-gsh47.vercel.app/swim/lec13/lecture-xiii/)
+
 
 ## Introduction
 **Liny Algi** is a beautiful idea with crazy applications and has a profound impact on your life very now. The AI (C-GPT if you're a noob or Grok if you're 'special that way') you use is basically just basic linear algebra with more spicy mathematical algorithms dumped on it. You can see several important and ignorant people treat it like some messiah and make an utter fool of themselves with this.

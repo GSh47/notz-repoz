@@ -1,4 +1,4 @@
-![[Fallout 4 Official Main Theme by Inon Zur[via torchbrowser.com].mp3]]
+![[Fallout 4 Official Main Theme by Inon Zur.mp3]]
 
 # Theory of succesive disintegration.
 In nuclear decay, parent always decays into a daughter nucleus $A\to B\to C$ which inturn decays into grandaughter till a stable nucleus is obtained. Example : Uranium series, Actinium series, Thorium series. (Find the decay scheme for one or two of them ). 
