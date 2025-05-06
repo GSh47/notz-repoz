@@ -8,8 +8,7 @@ Order of sizes : Atoms - $1\sim 10 A^{\circ}$  while nucleus is $\sim 10^{-15}$ 
 
 Notation : 
 
-$$_{1}^{1}p\quad ^1_{0}n\quad _{-1}^1e$$
-
+![[Pasted image 20250506215030.png|300]]
 
 subscript is charge and superscript is number of nucleons in the entity  
 

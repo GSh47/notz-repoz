@@ -19,5 +19,5 @@ title: Nexus
 
 - [[Lin. Al. and PDEs]] MT6123 21st of April
 - [[Condensed matter]] PH6223 23rd of April
-- [[Nukes !]] PH6123 7th of May
+- [[Nukes]] PH6123 7th of May
 - [[Integral Calc]] MT6223 9th of May

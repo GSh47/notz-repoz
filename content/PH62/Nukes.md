@@ -1,3 +1,6 @@
+---
+title: Nukes !
+---
 
 
 ![[Pasted image 20250505124918.png]]
