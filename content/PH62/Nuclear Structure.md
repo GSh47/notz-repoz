@@ -121,7 +121,11 @@ can we get the second minima from oxygen 10 nucleus ?
 - THis is achieved by using mutually perpendicular $\vec{E},\vec{B}$ 
 	- $\vec{E}$ tries to deflect the ions in the upward direction as per the formula $$\vec{F}=q\vec{E}$$
 	- $\vec{B}$ tries to deflect the particle downwards as per the formula $$\vec{F}_{B}=q(\vec{v}\times \vec{B})$$
-	- We select only those ions of particular velocity correspoding to $$qE=qvB$$$$\therefore v= \frac{E}{B}$$
+	- We select only those ions of particular velocity correspoding to 
+$$qE=qvB$$
+
+$$\therefore v= \frac{E}{B}$$
+
 ## Momentum selector, 
 These selected ions are sent to momentum selector, where the $\vec{B}$ is directed opposite to the $\vec{B}$ in velocity selector
 In this region we have the particles bent in a uniform $\vec{B}$ field. 
