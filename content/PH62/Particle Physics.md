@@ -2,8 +2,6 @@
 title: Particle Physics
 ---
 
- 
-
 
 
 
@@ -144,7 +142,7 @@ Physicists thought they could explain this by introducing the concept of **color
 Analogous to an electron carrying electric charge, quarks carry color charge.  And the strong nuclear force that the quarks feel due to other quarks are known as the color forces. 
 
 
-![[particlephys.png|500]]
+![[particlephys.png|700]]
 
 
 The strong force between quarks is called the **color force**, and it’s much stronger than electromagnetism. This interaction is described by **quantum chromodynamics (QCD)**, which explains how quarks exchange particles called **gluons** that carry color charge themselves. Importantly, all observable particles are **colorless** overall — meaning the combination of colors always results in a neutral, confined state.

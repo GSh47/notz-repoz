@@ -55,7 +55,7 @@ Assume that at one instant of time - we have a spherical ball of radius $x$
  Implies that the total potential energy $d\cdot E_e=\frac{1}{4\pi\epsilon_{0}}\left( \frac{q_{1}q_{2}}{x} \right)$ 
  $$
 \begin{aligned}
-E_{e}\int   \, dx 
+E_{e}=\int \frac{1}{4\pi\epsilon_{0}}\left( \frac{16\pi^{2}\rho^{2}}{3} \right)x^4   \, dx 
 \end{aligned}
 $$
 for **two adjacent mirror nuclei** (differ by $Z=1$) having charges $Ze$ and $(Z+1)e$ but having same radius $R$ 
@@ -67,9 +67,9 @@ $$
 $$
 now $2Z+1=A$ which is atomic mass. giving us 
 $$
-\frac{1}{4\pi\epsilon_{0}} \frac{3}{5} \frac{e^{2}}{R} A
+\Delta E_{e}=\frac{1}{4\pi\epsilon_{0}} \frac{3}{5} \frac{e^{2}}{R} A
 $$
-example: 
+And we use it as 
 
 $$R=\frac{1}{4\pi\epsilon_{0}} \frac{3}{5} \frac{e^{2}}{\Delta E_{c}}A$$  
 given two atoms $$^{29}_{14}Si,^{29}_{15}P$$ 
