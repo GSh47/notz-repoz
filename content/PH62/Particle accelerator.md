@@ -31,15 +31,12 @@ To account for relativistic changes, divide by gamma : $$f=\frac{qB}{2\pi m} \sq
 
 ![Pasted image 20250117111014.png](app://4a87f670b68be947ef7073029bd66074a19b/home/joe/SYNC/OBSIDIAN/Academics/images/Pasted%20image%2020250117111014.png?1737092414663)
 
-  
+  ![[Particle accelerator 2025-05-06 19.02.22.excalidraw.png]]
+
+![[Particle accelerator 2025-05-06 19.03.35.excalidraw.png]]
 
 
 
-![Pasted image 20250117112713.png](
-![[Particle accelerator 2025-05-06 19.02.22.excalidraw]]
-
-
-![[Particle accelerator 2025-05-06 19.03.35.excalidraw]]
 
 The emf from varying mag field exerted by electromagnet is $\mathcal{E}=-\frac{d\phi}{dt}$ and thus
 

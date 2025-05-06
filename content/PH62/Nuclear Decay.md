@@ -32,18 +32,74 @@ $$
 Yeah Latex redering is a bit wonky online.. sowwy !
 # Radioactive equilibrium
 ## Secular or Permanent Equilibrium
-In this case we assume that $\lambda_{2}\gg\lambda_{1}$ implies that mean life of parent is much greater than daughter. Implies $\lambda_{2}-\lambda_{1}\approx\lambda_{2}$ similary $e^{-\lambda_{1}t}\sim 1$ is therefore, $N_{2}=N_{0}\frac{\lambda_{1}}{\lambda_{2}}$ after a long time. Nut $N_{0}\approx N$ as lifetime of parent is very large. $N_{2}\approx \frac{\lambda}{\lambda_{2}}$ this implies formation and disintegration of daughter nucleus becomes equal called as secular equilibrium.  
+
+
+In this case, we assume that $\lambda_2 \gg \lambda_1$. This implies the mean life of parent is much greater than daughter’s since 
+$$
+T_{\text{mean}} = \frac{1}{\lambda_1}
+$$
+$$
+\lambda_2 - \lambda_1 \approx \lambda_2
+$$
+
+and 
+$$
+e^{-\lambda_1 t} \approx 1
+$$
+
+Therefore,
+$$
+N_2 = \frac{\lambda_1}{\lambda_2} N_1 \left[1 - e^{-\lambda_2 t}\right]
+$$
+
+After a long time,
+$$
+N_2 = \frac{\lambda_1}{\lambda_2} N_1 \left[1 - e^{-\lambda_2 t}\right]
+$$
+
+But $N_0 \sim N_1$, as the lifetime of parent is very large.
+
+Thus,
+$$
+N_2 = \frac{\lambda_1}{\lambda_2} N_1
+$$
+
+or
+$$
+\lambda_1 N_2 = \lambda_2 N_1
+$$
+
+Thus, in secular equilibrium, formation and disintegration of daughter nucleus become equal.
+
 ## Transient Equilibrium 
-When $\lambda_{2}\geq\lambda_{1}$ implies that the mean life of the parent is not too different from that of the daughter nucleus. 
-$e^{-\lambda_{2}t}$ decays faster 
-something $$N_{2}=\frac{\lambda_{1}N_{1}}{(\lambda_{2}-\lambda_{1})}$$ this implies both parent and daughter decay at the rate so that $\frac{N_{2}}{N_{1}}$ remains constant in a Transient Equilibrium. 
+When $\lambda_2 > \lambda_1$, i.e., the difference between them isn’t too large,  
 
 $$
-^X_{Z}X\to ^{X-4}Y+^4_{2}He
+e^{-\lambda_2 t} \text{ tends to } 0 \text{ faster than } e^{-\lambda_1 t}
 $$
+
+$$
+\Rightarrow N_2 = \frac{\lambda_1}{\lambda_2 - \lambda_1} N_0 e^{-\lambda_1 t}
+$$
+
+But $N_1 = N_0 e^{-\lambda_1 t}$  
+
+Therefore,
+$$
+N_2 = \frac{\lambda_1}{\lambda_2 - \lambda_1} N_1
+$$
+
+$\Rightarrow$ Daughter disintegrates with the decay constant of parent.
+
+$$
+\frac{N_2}{N_1} = \frac{\lambda_1}{\lambda_2 - \lambda_1} = \text{constant}
+$$
+
+$\therefore$ Both parent and daughter decay at a rate such that $\frac{N_2}{N_1}$ is a constant.
 
 # Geiger Nuttal Law.
 
+It relates half life of an element to the type of radiation emitted.
 
 Geiger showed that Range $\propto V_{0} ^{3}$ If the initial energy of $\alpha$ particle is in $MeV$, then it is related by $E=(2.08\times{1}0^{14})bE_{0}^{3/2}$ where $b=3.18\times{1}0^{-3}$ . 
 It is observd that nuclei with shorter half life $T_{\frac{1}{2}}$ emit $\alpha$ particles with high energies implies there is a relation between rnage and half life of hte nucleus emitting the radiation. 

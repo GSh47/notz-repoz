@@ -33,12 +33,12 @@ it's constant across applied voltge but gives different reading for different io
 
 the count increses proportionally with voltage 
 
-![[Radiation detectors 2025-05-06 19.04.44.excalidraw]]### Geiger region
+### Geiger region
 Plateau region - It does not discriminate wrt $\alpha,\beta,\gamma$ 
 A single incidence creates a townsend Avalanche leading to saturated pulse 
 
 # Geiger Counter
-
+![[Radiation detectors 2025-05-06 19.04.44.excalidraw.png]]
 ## Construction
 Abridged from shared pdf : 
 It consists of the GM tube which is a hollow metallic cylinder and it contains some kind of a gaseous medium - usually a mixture of 90% Ar and 10% alcohol of some kind. This tube is the Cathode, connected to the negative terminal of a high-tension battery $\sim 3000 V$. Along the centre of the cylinder is  the Anode - a tungsten electrode connected to a load resistance connected to the positive terminal of the battery. Connected parallel to the load resistance is the amplifier and/or a pulse counter to determine potential drop that happens across $R_L$ while also measures the amount of current associated with it. The system is also associated with some kind of a counter that can count that number of events over a period of time.

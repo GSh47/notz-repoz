@@ -15,17 +15,94 @@ dcb8e5d09bf62d27ab5936cfa61ab166621fc721: [[geiger.png]]
 
 %%
 ## Drawing
-```compressed-json
-N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQBGeO0ABho6IIR9BA4oZm4AbXAwUDBSiBJuCAArKoBJAHkAQVwAWQAFNNLIWERKwn1opH4yzG5neIAWeOHIGDGeAHYATm0e
-
-ADYAVjWeDZmIChJ1bg3k5L3JBEJlaW4AZkXtNdu1hfiADgXdoshrZWDuM7fCDMKCkNgAawQAGE2Pg2KRKqDrMw4LhAjlOmVNLhsODlGChBxiDC4QiJEiOCi0dkoJjIAAzQj4fAAZVg/wkkhxGkCdOBoIhCAA6odJNxpkCQWDIWyYBz0IIPHyCdcOOE8mgJV0IGxUdg1HNNac9gSiWrmBrUBwhMy9mEEMRuFM3vc9owWOwuGg+ED3axOAA5ThicXb
-
-Da3N48N4TCZ7IRwYi4KAO8ULCabCMTN5LKZLPaEZgAEQyycdaHpBDCe3xwjgtWIlvyAF09pphESAKLBLI5RstoFEDjg7jW20Dti4lPlysIPaM4L1yrEbCaN4IDbEZJLTT07bERa4TQbJbPbAVtbxQ/xNY3njxenYBZ3vnMdziVCFLpgLVdeLffvaoQRJYJUuCpEUAC+4AARAuBwHAbJJu+JTdBcWSVEQ1y0sMDCEAgFAAEI4niprErC8KVAAxPSN
-
-G0ZiEDYCI6JQLUyb6Gy0rQuRZLoJR8QIPx/H0YxpDMaxmREbiNaEmRpKIuQlKosxwlMTS4n6AAYkyrLsu+wKwhUOEiWJbEcYKIrEEc3pGapOTqWZMq6ZUiqGUUDG2SxbEAErCKq6rijZolqWx9R6ga4rGm5xnBZkGmcFAGm4PoTKGqgXxlNFdlsXFOQsoQRjvjwgIZR56kACpYFAjSYV66DBPS2FRaVplRKQVWiWwFAXLgZZWja+CBSZmQdkSjQd
-
-V1IS9bB40qUFWWZGNYIUGV8B6aR9GvmCzIABp3AsxUCNgW34AAmk6ObaAstwTLcnw4UYbAGNwKGQPQBBCO+f6lBBg0xfoPkyealoQOtOH4iQeUFdwRVg6QEPJnAxywyQLRsMQCAjYewS9RW+BVm54OyRRaAvRABGwlNpDKNiAAUd4LNQvDxAzTMs8k2gbAAlHyXkIMoNpopUVO0zwtxnLwYuM6L4vs1zECQb9uUCpCoVQJ6lqjgNbn0uQWS88BcM
-
-cMoz1AtkWNTqgoIfXs2BEIjaBW7OQIcEl76O3swhQIObukB9CtuXYVQINguQsi7cCo+jmOaNj3C4/jZQ4mrjBlY9+Am9qPR6WEwQh56fKMSCBgrb0aCa3scKTjjM5zmC7EZHnnBxzXA6hFVecp2nI79ZB4A/XQ87hM9UEQUAA===
+```json
+{
+	"type": "excalidraw",
+	"version": 2,
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.11.0",
+	"elements": [
+		{
+			"id": "jjIOAaMP",
+			"type": "image",
+			"x": -141,
+			"y": -279.265625,
+			"width": 500,
+			"height": 327.63671875,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"roundness": null,
+			"seed": 41832,
+			"version": 2,
+			"versionNonce": 1625382844,
+			"updated": 1746538489419,
+			"isDeleted": false,
+			"groupIds": [],
+			"boundElements": [],
+			"link": null,
+			"locked": false,
+			"fileId": "dcb8e5d09bf62d27ab5936cfa61ab166621fc721",
+			"scale": [
+				1,
+				1
+			],
+			"index": "a0",
+			"frameId": null,
+			"status": "pending",
+			"crop": null
+		}
+	],
+	"appState": {
+		"theme": "light",
+		"viewBackgroundColor": "#ffffff",
+		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemBackgroundColor": "transparent",
+		"currentItemFillStyle": "solid",
+		"currentItemStrokeWidth": 2,
+		"currentItemStrokeStyle": "solid",
+		"currentItemRoughness": 1,
+		"currentItemOpacity": 100,
+		"currentItemFontFamily": 5,
+		"currentItemFontSize": 20,
+		"currentItemTextAlign": "left",
+		"currentItemStartArrowhead": null,
+		"currentItemEndArrowhead": "arrow",
+		"currentItemArrowType": "round",
+		"scrollX": 154.15789473684214,
+		"scrollY": 576.3083508602119,
+		"zoom": {
+			"value": 1.0735
+		},
+		"currentItemRoundness": "round",
+		"gridSize": 20,
+		"gridStep": 5,
+		"gridModeEnabled": false,
+		"gridColor": {
+			"Bold": "rgba(217, 217, 217, 0.5)",
+			"Regular": "rgba(230, 230, 230, 0.5)"
+		},
+		"currentStrokeOptions": null,
+		"frameRendering": {
+			"enabled": true,
+			"clip": true,
+			"name": true,
+			"outline": true
+		},
+		"objectsSnapModeEnabled": false,
+		"activeTool": {
+			"type": "selection",
+			"customType": null,
+			"locked": false,
+			"fromSelection": false,
+			"lastActiveTool": null
+		}
+	},
+	"files": {}
+}
 ```
 %%
