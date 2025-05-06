@@ -16,7 +16,7 @@ Aight then !
 > - Aight let's face it 50% woke up for this paper hoping to find out how a [RBMK reactor explodes](https://youtu.be/yU8qYHm2AJI?si=Y9j9WH63VeZGD910) and 50% of are here for[ nukie booms](https://youtu.be/9IHnmRSRQ2U?si=9sxKOaSqzNRJtC9Y) 
 > > -  Sadly, neither of that is covered here. But you do learn about quarks ! yipee
 >   
->   It's shocking that I have to say this out loud - The Chernobyl incident is a very sober example of precisely **WHY YOU SHOULD ALWAYS BE HONEST IN YOUR RESEARCH !** to you it's one fabricated section and a handshake, this mistakes costs lives. 
+>   It's shocking that I have to say this out loud - The Chernobyl incident is a very sober example of precisely **WHY YOU SHOULD ALWAYS BE HONEST WITH YOUR RESEARCH !** to you it's one fabricated section and a handshake, this mistakes costs lives. 
 
 
 
