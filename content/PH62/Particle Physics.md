@@ -20,12 +20,10 @@ $$
 
 ![[Pasted image 20250228111410.png]]
 
-Bosons are force carriers, fermions are charge carriers ? 
 
 
-**Compare the gravitational force strength and electromanetic strength of two protons **
+The ratio of gravitational force to coulombic force is $\frac{F_{E}}{F_{grav}}=1.2\times 10^{36}$  times !! hence grav is called weak compared to coulombic 
 
-$\frac{F_{E}}{F_{grav}}=1.2e{3}6$
 
 # Quarks 
 
