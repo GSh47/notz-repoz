@@ -11,7 +11,7 @@ title: Namaskara !
 >I encourage you to follow the web structure I've used for notes.   [[You can follow me into this link]]to 'walkthrough' each paper and cover syllabus. 
 
 >[!danger] **DISCLAIMER** 
->These notes aren't exactly perfect and are likely to contain typos, code errors,  factual errors or sections that might be entirely missing altogether that I might have not even noticed in class. **I DO NOT CLAIM ANY RESPONSIBILITY FOR WHAT YOU WRITE IN THE EXAM, THESE NOTES ARE NOT ANSWER-SCRIPT COMPLIANT !** use what's between your ears. 
+>These notes aren't exactly perfect and are likely to contain typos, brash opinions, code errors,  factual errors or sections that might be entirely missing altogether that I might have not even noticed in class. **I DO NOT CLAIM ANY RESPONSIBILITY FOR WHAT YOU WRITE IN THE EXAM, THESE NOTES ARE NOT ANSWER-SCRIPT COMPLIANT !** use what's between your ears. 
 >
 >Any sort of help in sorting these issues is very much appreciated. 
 
