@@ -1,1 +1,0 @@
-**Fermions** are particles that have **half-integer spin** values (like ½, 3⁄2, etc.) and follow the **Pauli exclusion principle**, which means no two identical fermions can occupy the same quantum state at the same time.

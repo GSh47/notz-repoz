@@ -3,15 +3,13 @@ title: Particle Physics
 ---
 
  
-Classification of elementary particles - Types of interaction- standard model-  hadrons–leptons – baryons – mesons – strangeness – hyperons – antiparticles –antimatter – basic ideas about quarks – types of quarks – quark dynamics– symmetry and conservation laws -Feynman diagrams– Gell-Mann Nishijima relations, strange particle, CPT Theorem.                                                        
-
-
-![[Pasted image 20250505122021.png]]
 
 
 
 
-![[Pasted image 20250505122112.png|400]]
+
+
+![[Pasted image 20250505122112.png|600]]
 # Classification of elementary particles
 
 Is a massive task. Some propose the Standard model as a solution.. 
@@ -25,11 +23,28 @@ $$
 ![[Pasted image 20250228111410.png]]
 
 Bosons are force carriers, fermions are charge carriers ? 
-Higgs are part of the Boson cahrt too
+
 
 **Compare the gravitational force strength and electromanetic strength of two protons **
 
 $\frac{F_{E}}{F_{grav}}=1.2e{3}6$
+
+# Quarks 
+
+Chup chaap yeh deko 
+
+![[Pasted image 20250506182018.png]]
+
+> -  Stolen from a talk by Tong, D. (Former research fellow at TIFR Mumbai)
+
+If you ask me what a [fermion](https://en.wikipedia.org/wiki/Fermion) is, I'll stare back hard. 
+
+Quark is a fundamental constituent of matter - so far ! They always exist in groups 
+- Even membered groups are Mesons 
+- Odd numbered are called Baryons 
+They make up the family of Hadrons (I keep making a very embarrassing spelling mistake here). SO be warned !
+
+
 
 # Conservation laws
 We assume that elementay particles do follow the conservation laws. 
@@ -71,11 +86,21 @@ Leptonic number not conserved (1,0)
 Lepton number conserved (1,)
 
 
+
+
 # Feynman Diagrams
 
 A better way of understanding reactions is to, like in all other fields of physics is to draw it out ! 
 You have time along one axis, space in the other and you describe the interaction as thus 
 ![[ElectronCaptureFeynmanWithAxes.mp4]]
+
+A comical but slightly inaccurate way to imagine the reaction is 
+
+![[Pasted image 20250506162205.png]]
+
+
+
+
 # Strange particles and strangeness
 This has nice history ! it was the result of a feud that took place across decades regarding the '*Tau Theta*' puzzle regarding two identical but different rays observed on photographic plates back then![[Pasted image 20250506131314.png|500]]
 
@@ -117,9 +142,12 @@ Analogous to an electron carrying electric charge, quarks carry color charge.  A
 
 
 ![[particlephys.png|500]]
+
+
 The strong force between quarks is called the **color force**, and it’s much stronger than electromagnetism. This interaction is described by **quantum chromodynamics (QCD)**, which explains how quarks exchange particles called **gluons** that carry color charge themselves. Importantly, all observable particles are **colorless** overall — meaning the combination of colors always results in a neutral, confined state.
 
-![[Pasted image 20250506002959.png| 300]] What  kinda substance did they consume to come up with 'glueball' ?
+![[Pasted image 20250506002959.png| 300]] 
+What  kinda substance did they consume to come up with 'glueball' ?
 ## Charge conjugation 
 Mathematical operation : turns a particle anti by switching the charge on the quarks example: 
 $$
@@ -135,17 +163,59 @@ $$
 $$
 it's very much like staring into a mirror - everything is reversed
 
-#
+# CPT theorem 
+
+In my opinion, this theorem is a cry for help as veritasium too insists. It's an assumption that the current model of particle physics hopefully obeys as to not completely disobey the known laws of physics and thus needing a new set to be made (It's barely a century since we broke the last one). A belligerent version of me can be found yelling "WIMPS !!!" at the screen as I read about it the first time. (DO NOT be afraid to rewrite the laws, the last guy to do so became very famous.. there's nothing polite about lying to yourself that this works while we see it being violated in documented cases) which shall be your call to action to figure out **string theory** !
+
+Our initial understanding was that under the relativistic theory of physics, based on the Lorentz invariance : 
+>*The laws of physics must be invariant for a combined transformation of :*
+>1. Charge Conjugation (switch signs on charges, quantum numbers etc)
+>2. Parity inversion (dimensions are mirrored)
+>3. Time reversal (time runs backward)
+
+in other words, I'll borrow what I heard in a Lecture at ICTS by Prof. Tong 
+>"This means that if you make a movie of some dance performed
+by fundamental particles, then it’s guaranteed to look the same if you watch it played
+backwards, in a mirror, with all particles exchanged for anti-particles"
+
+Violations were seen in CP and T independently. The current understanding is that you can't break all three at once. i.e atleast one of these symmetries hold for any given experiment.
+
+I belong to the group of people who view this law as weak and is *soon to be discarded* upon further experimentation. I can give you an hour long rant about symmetry and stuff but now go study for the exam. Perhaps we can meet when we're free. 
+
+1. Charge parity violation -  Kaon decay 
+2. Parity inversion violation - Wu's experiment 
+3. Time reversal violation - Cronin and Fitch experiment, 2022 $\beta$ meson decay
+
 
 
 ## Quark confinement
 
 ![[Pasted image 20250506132806.png]]
 
+# Nishijima-Nanako Gell-Mann relation
+
+https://doi.org/10.1143/PTP.13.285
+
+wayyy back in early 1950s, two Japanese scientists came really close to asserting 'strangeness' as a property
+
+In a way, it may have led to the idea of Quarks and the standard model.. 
+Isospin is a quantum number - a vector of sorts : with 3 components. 
+The third component $I_{3}$ is called *isospin projection* and with that in mind ! 
+ $$
+Q=I_{3}+\frac{B+S}{2}
+$$
+- $Q$ - Charge of entity
+- $I_{3}$ Isospin projection
+- $B$ - Baryon number
+- $S$ - Strangeness
+
+Is a relation that discusses the coulombic charge of subatomic entities/particles 
+
+
 
 >[!danger] RANT
 >So I may not pursue further education into Particle Physics (don't get me wrong - it's a wonderful field) **BUT IF THEY INTRODUCE ANOTHER WET SOCK OF A GLUTEN FREE CHEESE TOAST** (made with freshly sniffed vegan tomatoes) **OF A FUIKENG PROPERTY INSTEAD OF REEVALUATING THEIR CURRENT MODEL WITH CLEAN MATH** (sustainably synthesized in a shed) **LIKE GOOD LITTLE CHILDREN**,  :
 >
 >
->![[Pasted image 20250506001534.png]] 
+>![[Pasted image 20250506001534.png|700]] 
 
