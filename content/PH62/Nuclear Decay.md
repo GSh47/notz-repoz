@@ -1,3 +1,5 @@
+![[Fallout 4 Official Main Theme by Inon Zur[via torchbrowser.com].mp3]]
+
 # Theory of succesive disintegration.
 In nuclear decay, parent always decays into a daughter nucleus $A\to B\to C$ which inturn decays into grandaughter till a stable nucleus is obtained. Example : Uranium series, Actinium series, Thorium series. (Find the decay scheme for one or two of them ). 
 - The number of parent atoms $A$ at time $t=0$ is $N_{0}$
@@ -56,6 +58,7 @@ Characteristics of $\alpha$ spectrum. It has been observed by use of strong magn
 
 Gamov  - alpha beta gamma 
 
+![[Queen - Don_t Stop Me Now (Best Quality).m4a]]
 # Alpha scattering
 
 - Since $\alpha$ particles are just helium nuclei : they are indeed affected by magnetic fields 

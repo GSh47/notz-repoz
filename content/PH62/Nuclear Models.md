@@ -4,7 +4,7 @@ title: Nuclear Models
 
 The need for a model arose from observations of several experiments like $\alpha$ scattering
 
-
+![[Whiplash.opus]]
 
 # Nuclear models
 

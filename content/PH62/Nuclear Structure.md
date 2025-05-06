@@ -1,4 +1,6 @@
 
+![[Nirvana - Come As You Are (Official Music Video) (1).m4a]]
+
 - Note on [Rydberg atoms](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Rydberg_atom&ved=2ahUKEwiHm5qe6o-KAxVMjGMGHYTrFrkQFnoECBwQAw&usg=AOvVaw0Gd8FHTFpOB7HYFCjp-WoH) 
 - Line defects and molecular what placing aoms in uni cells
 

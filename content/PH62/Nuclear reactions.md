@@ -5,11 +5,7 @@ publish: "true"
 ---
 
 
-Thomas Kuhn scintific revolution 
-
-Wilhelm Herschel color temps 
-
-Bunsen and Kirchoff discovery of colour 
+![[DARUDE SANDSTORM but it_s an AWESOME PIANO DUET - Piano Tutorial.opus]]
 
 # Dynamics of nuclear reactions 
 

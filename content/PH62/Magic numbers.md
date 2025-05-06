@@ -1,3 +1,5 @@
+   ![[Carly Rae Jepsen - Call Me Maybe.m4a]]
+   
    Magic numbers of protons and neutrons have been interpreted as forming closed shells of protons or neutrons, analogous to the filling of electronic shells in atoms. 
    
    Each shell is limited to a certain number of protons and neutrons. When a shell is filled, the resulting configuration is very stable and has unusually low energy.
@@ -12,3 +14,4 @@
 
 8. **Absorption cross-section** for neutrons is very low for nuclei having magic numbers $50, 82, 126$, i.e., they do not absorb neutrons readily.
 9. When a shell is filled, the resulting configuration is very stable and has an unusually low energy.
+

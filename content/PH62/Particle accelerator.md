@@ -1,7 +1,7 @@
 ---
 title: Particle Accelerators
 ---
-
+![[Queen - Don_t Stop Me Now (Best Quality) 1.m4a]]
 You might remember the 'Shaking method' to figure out whats in a box .. And this is how you shake a box - or a particle in this case .. 
 
 By smashing them in the face with another particle. 

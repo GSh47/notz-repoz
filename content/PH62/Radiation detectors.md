@@ -1,3 +1,5 @@
+
+![[Youth - tiiiza (Sovietwave).m4a]]
 # Gas Detector 
 
 Similar to an alcohol cloud chamber, these work the same way, 

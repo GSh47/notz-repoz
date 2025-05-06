@@ -104,7 +104,10 @@ A comical but slightly inaccurate way to imagine the reaction is
 # Strange particles and strangeness
 This has nice history ! it was the result of a feud that took place across decades regarding the '*Tau Theta*' puzzle regarding two identical but different rays observed on photographic plates back then![[Pasted image 20250506131314.png|500]]
 
+
 That eventually led to the [Lee and Yang paper of 1956](https://drive.proton.me/urls/84CJMDX8XC#aOTPX2C0bp8I) and of course the famous [Wu experiment ](https://drive.proton.me/urls/X76PRS7J30#jJXB8ay4iJ9f) executed a few months later. You can find more about the tau theta puzzle in this [little repository I have made for you here](https://drive.proton.me/urls/0T0T1WK1G8#NwgYnL5bRaz0)
+
+So much chinese ! [I coincidentally was listening to this when I was writing this ](https://www.youtube.com/watch?v=5x4MSTnaa1U) !
 
 
 Consider $p^++\pi^-\to\lambda^0+K^0$ and $p^++\pi^-\to n+K^0$ 
