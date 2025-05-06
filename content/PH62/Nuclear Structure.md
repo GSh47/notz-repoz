@@ -54,7 +54,11 @@ Assume that at one instant of time - we have a spherical ball of radius $x$
  Implies that the total potential energy $d\cdot E_e=\frac{1}{4\pi\epsilon_{0}}\left( \frac{q_{1}q_{2}}{x} \right)$ 
  $$
 \begin{aligned}
-E_{e}=\int \frac{1}{4\pi\epsilon_{0}}\left( \frac{16\pi^{2}\rho^{2}}{3} \right)x^4   \, dx 
+E_{e}=&\int \frac{1}{4\pi\epsilon_{0}}\left( \frac{\left( \rho \times\frac{4}{3}\pi x^{3} \right)(\rho \times4\pi x^{2})}{x^{2}} \right)x^4   \, dx \\
+E_{e}=&\int \frac{1}{4\pi\epsilon_{0}}\left( \frac{16\pi^{2}\rho^{2}}{3} \right)x^4   \, dx \\
+E_{e}=& \frac{1}{4\pi\epsilon_{0}}\left( \frac{16\pi^{2}\rho^{2}}{3} \right) \left( \frac{x^5}{5} \right)   \,\\
+E_{e}=& \frac{1}{4\pi\epsilon_{0}}\frac{16\pi^{2}}{3}  \left( \frac{Ze}{\frac{4}{3}\pi R^{3}} \right)^{2}\left( \frac{R^5}{5} \right)\\ \\
+ \fbox{$E=\frac{1}{4\pi\epsilon_{0}} \frac{3}{5} \frac{Z^{2}e^{2}}{R} $}
 \end{aligned}
 $$
 for **two adjacent mirror nuclei** (differ by $Z=1$) having charges $Ze$ and $(Z+1)e$ but having same radius $R$ 

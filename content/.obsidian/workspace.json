@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PH62/Particle Physics.md",
+                "file": "PH62/Nuclear Structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Particle Physics"
+              "title": "Nuclear Structure"
             }
           }
         ],
@@ -169,10 +169,10 @@
   },
   "active": "56bf56478a8341f2",
   "lastOpenFiles": [
+    "PH62/Particle Physics.md",
     "PH62/Nukes.md",
     "You can follow me into this link.md",
     "index.md",
-    "PH62/Particle Physics.md",
     "PH62/Nuclear Models.md",
     "PH62/Applied Radiation Physics.md",
     "PH62/Particle accelerator.md",
