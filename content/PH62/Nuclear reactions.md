@@ -5,8 +5,7 @@ publish: "true"
 ---
 
 
-![[DARUDE SANDSTORM but it_s an AWESOME PIANO DUET - Piano Tutorial.opus]]
-
+![[FrankJavCee - Ｓｉｍｐｓｏｎｗａｖｅ １９９５ (Original Music Video).m4a]]
 # Dynamics of nuclear reactions 
 
 The basic scheme for a nuclear reaction is
