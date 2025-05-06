@@ -6,7 +6,7 @@ The need for a model arose from observations of several experiments like $\alpha
 ![[Наследие Большевиков - Чертёж.m4a]]
 # Nuclear models
 
-In the absence of a detailed theory of nuclear structure, attempts have been made to correlate experimental data with theoretical models. Each model serves to correlate a portion of our experimental knowledge about nuclei but fails when applied to data outside this range.
+In the absence of a detailed theory of nuclear structure, attempts have been made to correlate experimental data from the study of [[Nuclear Decay]] with theoretical models. Each model serves to correlate a portion of our experimental knowledge about nuclei but fails when applied to data outside this range.
 # Shell Model
 
 ### Basis
