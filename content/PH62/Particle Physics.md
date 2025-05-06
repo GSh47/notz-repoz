@@ -7,7 +7,7 @@ title: Particle Physics
 
 
 
-![[Pasted image 20250505122112.png|600]]
+![[Pasted image 20250505122112.png|500]]
 # Classification of elementary particles
 
 Is a massive task. Some propose the Standard model as a solution.. 
