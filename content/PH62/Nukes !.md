@@ -8,7 +8,7 @@ Aight then !
 ![[Pasted image 20250505123641.png|400]]
 
 
-> - Aight let's face it 50% woke up for this paper hoping to find out how a [RBMK reactor explodes](https://youtu.be/C6lefbvrFV8?si=s6DyhsOqsNwSOzH1) and 50% of are here for[ nukie booms](https://youtu.be/9IHnmRSRQ2U?si=9sxKOaSqzNRJtC9Y) 
+> - Aight let's face it 50% woke up for this paper hoping to find out how a [RBMK reactor explodes](https://youtu.be/yU8qYHm2AJI?si=Y9j9WH63VeZGD910) and 50% of are here for[ nukie booms](https://youtu.be/9IHnmRSRQ2U?si=9sxKOaSqzNRJtC9Y) 
 > - 
 > -  Sadly, neither of that is covered here. But you do learn about quarks ! yipee
 >   
