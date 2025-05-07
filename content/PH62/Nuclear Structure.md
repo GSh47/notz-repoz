@@ -154,7 +154,9 @@ Properties :
 3. They are short range forces, typically dies down rapidly after a distance of few fermis
 4. They are saturated forces. Implies binding energy per nucleon in approx a constant. implies each nucleon interacts only with a limited number of other nucleons. 
 5. Nuclear forces are spin dependent forces. 
-6. At extremely short distances $\sim 0.4F$ they are repulsive. ![[Pasted image 20250505223556.png]]
+6. At extremely short distances $\sim 0.4F$ they are repulsive. 
+
+![[Pasted image 20250505223556.png]]
 
 
 ## Yukawa's theory of exchange forces to explain nuclear forces :

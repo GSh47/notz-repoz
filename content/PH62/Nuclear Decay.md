@@ -124,9 +124,9 @@ Due to the high potential barrier arising from the Coulomb field around the nucl
 
 Classically, if an α-particle has to come out from the nucleus, it has to overcome a Coulomb barrier of potential as shown.
 
+![[Nuclear Models 2025-05-06 19.22.37.excalidraw.png]]
 
 
-![[Nuclear Models 2025-05-06 19.22.37.excalidraw]]
 ⇒ At the Coulomb barrier,
 
 $$
