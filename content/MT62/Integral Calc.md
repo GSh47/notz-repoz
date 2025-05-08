@@ -21,7 +21,7 @@ ANd then play around with the said integral to figure out new things.
 
 In the voice of [Jeremy Clarkson, "*In tonight's episode ..*"](https://www.youtube.com/watch?v=j3Jtr6A3QMk)
 - We define the integral as certain sums, for this paper we stick to [[Darboux sums]] as a precursor of the cooler and famous Riemann sums. 
-- We check conditions that allow for [[integrability]] of a given [[function]].
+- We check conditions that allow for [[integrability]] of a given [[function]]. and [[monotocity]] 
 - State the [[fundamental theorem of calulus]]... I personally think it's a bit late for this -  we should've seen this in school. 
 
 And for those who can think geometrically (I can hear a certain professor glare at me from the other side of the city ... )

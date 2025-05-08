@@ -44,7 +44,10 @@ $$
 m_{i}: \inf(f(x))=\inf(x) &=x_{i-1} =\frac{i-1}{n}\\
 M_{i}: \sup(f(x))=\sup(x) &=x_{i} =\frac{i}{n} \\
 L(P_{n},f) =& \sum_{i=1}^n m_{i}\Delta x_{i}\\&\sum_{i=1}^n \frac{i-1}{n}\cdot \frac{1}{n}\\ &\frac{1}{n^{2}}\sum_{i=1}^n i-1\\& \frac{1}{n^{2}} \left( \frac{n(n+1)}{2}-1 \right)\\  \int_{0}^1 f \, dx =&\lim_{ n \to \infty } \frac{1}{n^{2}} \left( \frac{n\left( 1-\frac{1}{n} \right)n}{2} \right)\\=&\frac{1}{2}
-\end{aligned}$$
+\end{aligned}
+$$
+
+
 now for upper sum, 
 
 $$

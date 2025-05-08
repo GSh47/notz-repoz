@@ -15,7 +15,7 @@
               "state": {
                 "file": "MT62/Darboux sums.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Darboux sums"
@@ -169,6 +169,11 @@
   },
   "active": "56bf56478a8341f2",
   "lastOpenFiles": [
+    "monotocity.md",
+    "MT62/Integral Calc.md",
+    "You can follow me into this link.md",
+    "MT62/Darboux sums.md",
+    "MT62/fundamental theorem of calulus.md",
     "You can contact me here.md",
     "index.md",
     "Media/stokes 1.png",
@@ -203,17 +208,12 @@
     "MT62/setup limits.md",
     "MT62/modern art.md",
     "MT62/Line integrals.md",
-    "MT62/Integral Calc.md",
     "MT62/integrability.md",
     "MT62/index.md",
     "MT62/Green.md",
     "MT62/Gauss.md",
-    "MT62/fundamental theorem of calulus.md",
     "MT62/function.md",
     "MT62/Exact function.md",
-    "MT62/Darboux sums.md",
-    "MT62/Darboux integrability theorem.md",
-    "MT62/averages.md",
-    "MT62/areas and volumes.md"
+    "MT62/Darboux integrability theorem.md"
   ]
 }
