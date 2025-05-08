@@ -72,7 +72,7 @@ $$
 Let the position vector of $P$ and 
 
 $$
-\mathbf{\vec{r}} = x \, \hat{i} + y \, \hat{j} + z \, \hat{k}$
+\mathbf{\vec{r}} = x \, \hat{i} + y \, \hat{j} + z \, \hat{k}
 $$
 
 $$
