@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MT62/Darboux sums.md",
+                "file": "MT62/Gauss.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Darboux sums"
+              "title": "Gauss"
             }
           }
         ],
@@ -169,10 +169,10 @@
   },
   "active": "56bf56478a8341f2",
   "lastOpenFiles": [
+    "MT62/Darboux sums.md",
     "monotocity.md",
     "MT62/Integral Calc.md",
     "You can follow me into this link.md",
-    "MT62/Darboux sums.md",
     "MT62/fundamental theorem of calulus.md",
     "You can contact me here.md",
     "index.md",

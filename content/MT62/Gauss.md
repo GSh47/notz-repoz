@@ -19,13 +19,16 @@ Let $\hat{n_{1}},\hat{n}_{2}$ be the unit normal drawn outward to $S_{1},S_{2}$ 
 
 $$dxdy=-\hat{k}\cdot \hat{n_{1}}ds_{1}=\hat{k}\cdot \hat{n_{2}}ds_{2}$$
 
-Consider the integral $\iiint \frac{ \partial F_{3} }{ \partial z }dxdydz$ , we have $$
+Consider the integral $\iiint \frac{ \partial F_{3} }{ \partial z }dxdydz$ , we have 
+
+$$
 \begin{aligned}
 \iiint_{z_{1}=f_{1}(x,y)}^{{z_{2}=f_{2}(x,y)}}\frac{ \partial F_{3} }{ \partial x }dxdydz= \iint  \ F_{3} |_{f_{1}(x,y)}^{f_{2}(x,y)}dydz\\
 \iint_{R}F_{3}(x,y,f_{2})-F_{3}(x,y,f_{1})dydx\\
 \iint_{S_{2}}F_{3}\hat{k}\cdot \hat{n}ds+\iint_{S_{1}}F_{3}\hat{k}\cdot \hat{n}ds
 \end{aligned}
 $$
+
 Remember the $-$ sign from $dxdy$ definition above !
 
 $$
@@ -42,6 +45,7 @@ $$
 \iiint_{V}\frac{ \partial F_{2} }{ \partial y } dxdydz=\iint_{S}F_{2}\hat{j}\cdot\hat{n} ds
 \end{align}
 $$
+
 So now just add em up to get
 
 $$
