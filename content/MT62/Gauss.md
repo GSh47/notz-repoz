@@ -23,7 +23,7 @@ Consider the integral $\iiint \frac{ \partial F_{3} }{ \partial z }dxdydz$ , we 
 
 $$
 \begin{aligned}
-\iiint_{z_{1}=f_{1}(x,y)}^{{z_{2}=f_{2}(x,y)}}\frac{ \partial F_{3} }{ \partial x }dxdydz= \iint  \ F_{3} |_{f_{1}(x,y)}^{f_{2}(x,y)}dydz\\
+\iiint_{z_{1}=f_{1}(x,y)}^{{z_{2}=f_{2}(x,y)}}\frac{ \partial F_{3} }{ \partial z }dxdydz= \iint  \ F_{3} |_{f_{1}(x,y)}^{f_{2}(x,y)}dydz\\
 \iint_{R}F_{3}(x,y,f_{2})-F_{3}(x,y,f_{1})dydx\\
 \iint_{S_{2}}F_{3}\hat{k}\cdot \hat{n}ds+\iint_{S_{1}}F_{3}\hat{k}\cdot \hat{n}ds
 \end{aligned}
