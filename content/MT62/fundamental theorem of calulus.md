@@ -1,6 +1,67 @@
 
 # First form of Fundamental theorem of calculus 
+Let $f:[a,b]\to R$ ve a n integrable function and $F:[a,b]\to R$ ve defined such that $F(x)=\int_{a}^b f{(x)dx}$. If $f$ is continuous at $c$ then $F$ is differentiable at $c$ and $F'(c)=f(c)$
 
+**Proof**
+
+We will show that
+$$
+F'(c) = \lim_{h \to 0} \frac{F(c + h) - F(c)}{h} = f(c),
+$$
+i.e., we will show that given an $\epsilon > 0$, $\exists \, \delta > 0$ such that
+$$
+\left| \frac{F(c + h) - F(c)}{h} - f(c) \right| < \epsilon \quad \text{for} \quad |h| < \delta.
+$$
+
+By the continuity of $f$ at $c$, we know that $\exists \, \delta > 0$ such that
+$$
+|f(x) - f(c)| < \epsilon \quad \text{when} \quad |x - c| < \delta
+$$
+
+If we let $|h| < \delta$ and $x \in [c, c + h]$, then
+$$
+|x - c| < |c + h - c| = |h| < \delta.
+$$
+
+$$
+\implies |f(x) - f(c)| < \epsilon \quad \forall x \in [c, c + h],
+$$
+$$
+\implies f(c) - \epsilon \leq f(x) \leq f(c) + \epsilon.
+$$
+
+$$
+\int_c^{c + h} (f(c) - \epsilon) \, dx \leq \int_c^{c + h} f(x) \, dx \leq \int_c^{c + h} (f(c) + \epsilon) \, dx,
+$$
+
+$$
+\implies [f(c) - \epsilon](c + h - c) \leq \int_c^{c + h} f(x) \, dx \leq [f(c) + \epsilon](c + h - c),
+$$
+
+$$
+\implies [f(c) - \epsilon] h \leq \int_c^{c + h} f(x) \, dx \leq [f(c) + \epsilon] h.
+$$
+
+Dividing inequality by $h$,
+$$
+f(c) - \epsilon \leq  \int_c^{c + h} \frac{f(x)}{h} \, dx \leq f(c) + \epsilon. \tag{*}
+$$
+Now, 
+$$
+\begin{align}
+\frac{F(c+h)-F(c)}{h}=\frac{\left( \int_{a}^{c+h}f-\int_{a}^c f \right)}{h}\\= \frac{\left( \int_{a}^{c}f+\int_{c}^{c+h}f-\int_{a}^c f \right)}{h} \\
+\frac{\int_{c}^{c+h}f}{h}
+\end{align}
+$$
+Substitute in $*$ 
+
+$$
+\begin{align}
+f(c) - \epsilon \leq  \frac{F(c+h)-F(c)}{h} \leq f(c) + \epsilon \\
+|\frac{F(c+h)-F(c)}{h}-f(c)|\leq \epsilon \text{ as }h\leq\delta\\
+F'(c)=f(c)
+\end{align}
+$$
 
 # Second Form of Fundamental Theorem of Calculus 
 

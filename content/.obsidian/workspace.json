@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MT62/Switching coordinate systems.md",
+                "file": "MT62/fundamental theorem of calulus.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Switching coordinate systems"
+              "title": "fundamental theorem of calulus"
             }
           }
         ],
@@ -169,6 +169,8 @@
   },
   "active": "56bf56478a8341f2",
   "lastOpenFiles": [
+    "Pasted image 20250509041118.png",
+    "MT62/Switching coordinate systems.md",
     "MT62/Stokes Theorem.md",
     "MT62/Gauss.md",
     "MT62/Darboux sums.md",
@@ -204,7 +206,6 @@
     "fundamental theorem of calulus.md",
     "MT62/You can contact me here.md",
     "MT62/Theorems.md",
-    "MT62/Switching coordinate systems.md",
     "MT62/Switch Coordinate systems.md",
     "MT62/setup limits.md",
     "MT62/modern art.md",
@@ -213,7 +214,6 @@
     "MT62/index.md",
     "MT62/Green.md",
     "MT62/function.md",
-    "MT62/Exact function.md",
-    "MT62/Darboux integrability theorem.md"
+    "MT62/Exact function.md"
   ]
 }
