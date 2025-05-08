@@ -38,6 +38,7 @@ First we have,
 $P_{n}=\left\{  0, \frac{1}{n}, \frac{2}{n},\dots_{1}  \right\}$ 
 
 Giving us 
+
 $$
 \begin{aligned}
 m_{i}: \inf(f(x))=\inf(x) &=x_{i-1} =\frac{i-1}{n}\\

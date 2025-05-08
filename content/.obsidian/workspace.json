@@ -11,10 +11,14 @@
             "id": "56bf56478a8341f2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "MT62/Darboux sums.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Darboux sums"
             }
           }
         ],
