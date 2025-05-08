@@ -186,8 +186,9 @@ $$
   Example: $_{1}^3H\to_{2}^3He+_{-1}^0e+\bar{\nu_{e}}$
   Energy released in $\beta^-$ process is $Q=[M_{n}(A_{1}Z)-M_{n}(A_{1}ZH)-m_{e}]c^{2}$
 ### Positron emisson 
-    $_{Z}^AX\to _{Z-1}^AY+_{1}^0e+\nu_{e}$
-  Example: Find one
+   $_{Z}^AX\to _{Z-1}^AY+_{1}^0e+\nu_{e}$
+  Example: Find one.
+
   $\beta+$ emission is possible only when mass of parent is greater than parent by atleast 1.022MeV 
 ### Orbital electron capture 
   When an unstable proton rich nucleus is present with the coulomb barrier prevents emission of a proton. this implies that the nucleus can become stable only by transforming a proton into a neutron by capturing an orbital electron, hence Orbital electron capture
