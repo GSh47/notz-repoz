@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MT62/Gauss.md",
+                "file": "MT62/Switching coordinate systems.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gauss"
+              "title": "Switching coordinate systems"
             }
           }
         ],
@@ -169,6 +169,8 @@
   },
   "active": "56bf56478a8341f2",
   "lastOpenFiles": [
+    "MT62/Stokes Theorem.md",
+    "MT62/Gauss.md",
     "MT62/Darboux sums.md",
     "monotocity.md",
     "MT62/Integral Calc.md",
@@ -204,14 +206,12 @@
     "MT62/Theorems.md",
     "MT62/Switching coordinate systems.md",
     "MT62/Switch Coordinate systems.md",
-    "MT62/Stokes Theorem.md",
     "MT62/setup limits.md",
     "MT62/modern art.md",
     "MT62/Line integrals.md",
     "MT62/integrability.md",
     "MT62/index.md",
     "MT62/Green.md",
-    "MT62/Gauss.md",
     "MT62/function.md",
     "MT62/Exact function.md",
     "MT62/Darboux integrability theorem.md"

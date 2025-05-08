@@ -8,7 +8,8 @@ Is a relation between line and surface integral. Very popular in fluid dynamics 
 
 If $S$ is a surface bounded by a simple closed curve $C$, and if $\vec{F}$ is a vector function whose components have continuous first-order partial derivatives on $S$, then:
 
-$$\oint_C \vec{F} \cdot d\mathbf{r}  = \iint_S \left(\nabla \times \, \vec{F}\right) \cdot \hat{n} \, ds
+$$
+\oint_C \vec{F} \cdot d\mathbf{r}  = \iint_S \left(\nabla \times \, \vec{F}\right) \cdot \hat{n} \, ds
 $$
 
 Where $\ha\vec{F}he unit normal vector.  
@@ -40,14 +41,15 @@ $$
 $$
 
 We first consider:
+
 $$
 \iint_S (\nabla \times \mathbf{F_{1}}) \cdot \hat{n} \, ds
 $$
 
 The curl is:
+
 $$
 \begin{align}
-
 \nabla \times \mathbf{F} =&
 \begin{vmatrix} 
 \hat{i} & \hat{j} & \hat{k} \\ 
@@ -64,17 +66,22 @@ we thus have
 $$
 \iint_{S}\left(\frac{ \partial F_{1} }{ \partial z } \hat{j}-\frac{ \partial F_{1} }{ \partial y } \hat{k}\right) \cdot \hat{n} ds 
 $$
+
 (Eq 1)
 
 Let the position vector of $P$ and 
-$$\mathbf{\vec{r}} = x \, \hat{i} + y \, \hat{j} + z \, \hat{k}$
+
 $$
+\mathbf{\vec{r}} = x \, \hat{i} + y \, \hat{j} + z \, \hat{k}$
+$$
+
 $$
 \begin{align}
 \frac{ \partial \vec{r} }{ \partial y }  =&\hat{j}+\frac{ \partial z }{ \partial y } \hat{k} \\
 \frac{ \partial \vec{r} }{ \partial y } \cdot \hat{n} =&\hat{j} \cdot \hat{n}+\frac{ \partial z }{ \partial y } \hat{k}  \hat{n}
 \end{align}
 $$
+
 $\frac{ \partial r }{ \partial y }$ is the tangent at $P$ and $\hat{n}$ is the normal at $P$ thus the dotproduct of perpendicular vectors is 0. thus $\frac{ \partial r }{ \partial y }\cdot\hat{n}=0$
 
 $$
@@ -83,6 +90,7 @@ $$
 j\cdot \hat{n}=-\frac{ \partial z }{ \partial y } \hat{k} \cdot \hat{n}
 \end{align}
 $$
+
 substitute this in the Eq 1
 
 
@@ -95,6 +103,7 @@ $$
 =&-\iint_{S}\left(\frac{ \partial F_{1} }{ \partial z } \frac{ \partial z }{ \partial y }-\frac{ \partial F_{1} }{ \partial y } \right)  \hat{k}\cdot \hat{n}ds  
 \end{align}
 $$
+
 Since $F_{1}$ is a function of $x,y,z$ and $z=f(x,y)$ and now differentiating $F_{1}$ wrt $y$ partially, 
 
 $$
@@ -110,6 +119,7 @@ Substitute this in previous equation,
 $$
 \iint_S (\nabla \times F_{1}) \, \hat{n} \, ds = \iint_S \frac{\partial F_{1}}{\partial y} \,\hat{k} \cdot \hat{n} \, ds.
 $$
+
 In the $xy$ plane, $\hat{k} \cdot \hat{n} = 1$
 
 $$
@@ -133,6 +143,7 @@ Substitute:
 $$
 \iint (\nabla \times F_{1} \hat{i}) \, \hat{n} \, ds = \oint_C F_1 \, dx \, 
 $$
+
 in the $xy$ plane. 
 
 Similarly we have
@@ -140,11 +151,13 @@ Similarly we have
 $$
 \iint_S (\nabla \times F_2 \hat{j}) \, \hat{n} \, ds = \oint_C F_2 \, dy 
 $$
+
 in yz plane
 
 $$
 \iint_S (\nabla \times F_3 \hat{k}) \, \hat{n} \, ds = \oint_C F_3 \, dz
 $$
+
 in $xz$ plane
 
 adding the equations from all planes
